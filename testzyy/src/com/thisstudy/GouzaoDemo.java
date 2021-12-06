@@ -1,7 +1,5 @@
 package com.thisstudy;
 
-import com.fengzhuang.Student;
-
 public class GouzaoDemo {
     public static void main(String[] args) {
         //StudentGouzao()是调用构造方法

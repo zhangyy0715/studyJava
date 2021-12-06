@@ -11,6 +11,8 @@ public class shujushuru {
         int height2 = sc.nextInt();
         System.out.println("请输入第3个和尚的身高：");
         int height3 = sc.nextInt();
+
+//        sc.nextLine();
         //比较
         int temp = height1>height2?height1:height2;
         int result = temp>height3?temp:height3;
